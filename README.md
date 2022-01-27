@@ -1,2 +1,3 @@
-# assignment2-Peddireddy
-Repo for assignment 2
+# YogaNarasimhaReddy Peddireddy
+###### Kurnool
+The original name of Kurnool is found in historical records as **Kandanavolu or Kandanolu**. It used to be a crossing on the Tungabhadra River, where the bullock cart caravans are believed to have greased their wheels **kandana** being a reference to grease. The city is often referred to as **The Gateway of Rayalaseema**. **Belum Caves** are geologically and historically important caves in the district. There are indications that Jain and Buddhist monks were occupying these caves centuries ago. Many Buddhists relics were found inside the caves. These relics are now housed in Museum at **Ananthapur**.
