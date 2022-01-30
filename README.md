@@ -4,7 +4,7 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 
 ---
 
-##### Directions to the closest Airport to Kurnool
+#### Directions to the closest Airport to Kurnool
 
 **Rajiv Gandhi International Airpot** is the closest airpot to Kurnool where I can find my favorite food
 
@@ -15,4 +15,11 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 5. When you are approching Hyderabad you will be able to see direction to enter Nehru Outer Ring Road
 6. Take the free left when see the directions on the highway to Nehru Outer ring road.
 7. exit the Outer Ring Road on to exit no 18, this will take you to the Airport.
+
+#### Food recomendations for newbies
+
+* Rayalaseema Chicken
+* Gongura Chicken
+* Chicken Pakoda
+* Fast Food at park road
 
