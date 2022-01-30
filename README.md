@@ -23,7 +23,6 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 * Chicken Pakoda
 * Fast Food at park road
 
-**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md)**
 
 ---
 
@@ -51,3 +50,5 @@ The below table indicates the sports activity that I would like to recommend oth
 
 >That which does not kill us makes us stronger.<br>
                           *Friedrich Nietzsche*  
+
+**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md)**
