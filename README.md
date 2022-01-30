@@ -42,6 +42,6 @@ The below table indicates the sports activity that I would like to recommend oth
 
 #### Quotes
 
->The greatest religion it to be true to your own nature.
->>Have faith in yourselves.
+>The greatest religion it to be true to your own nature.<br>
+>Have faith in yourselves.
 >                       *Swami Vivekananda*
