@@ -6,7 +6,7 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 
 #### Directions to the closest Airport to Kurnool
 
-**Rajiv Gandhi International Airpot** is the closest airpot to Kurnool where I can find my favorite food
+**Rajiv Gandhi International Airpot** is the closest airport to Kurnool where I can find my favorite food
 
 1. Take a free right to the Outer Ring Road
 2. Exit Outer Ring Road to NH44 highway 
@@ -23,3 +23,4 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 * Chicken Pakoda
 * Fast Food at park road
 
+**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/e330fbb2d88ad860a7e83043da09c50245d99ca4/README.md#yoganarasimhareddy-peddireddy)**
