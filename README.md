@@ -59,8 +59,12 @@ The below table indicates the sports activity that I would like to recommend oth
 we will discuss the problem of constructing a convex hull from a set of points.<br>
 
 Consider  points given on a plane, and the objective is to generate a convex hull, i.e. the smallest convex polygon that contains all the given points.
+
+[Click here to find the algorithm full discription](https://cp-algorithms.com/geometry/convex-hull.html)
  
 Below is the algorithm `Monotone chain Algorithm` chain algorithm published in 1979 by Andrew.<br>
+
+[Click here to find the algorithm in the published website ](https://cp-algorithms.com/geometry/convex-hull.html)
 
 ```
 struct pt {
