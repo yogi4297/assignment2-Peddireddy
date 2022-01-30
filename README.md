@@ -119,4 +119,4 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
 }
 ```
 
-**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md)**
+**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md#yoganarasimhareddy-peddireddy)**
