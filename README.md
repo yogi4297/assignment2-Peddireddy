@@ -30,3 +30,12 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 #### Sport Recomendations
 
 The below table indicates the sports activity that I would like to recommend others to participate and which is the best place to try and how much it would cost to by the equipment for the sport activity.
+
+| Sport | Location | Equipment Cost |
+|:-----:|:--------:|---------------:|
+|Cricket|LB Stadium|$10|
+|Vollyball|StbcGorund|$30|
+|Kabadi|Gachibowl Stadium|$20|
+|Football|Mubai Stadium|$20|
+ 
+ 
