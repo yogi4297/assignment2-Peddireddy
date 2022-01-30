@@ -1,5 +1,5 @@
 # YogaNarasimhaReddy Peddireddy
-###### Kurnool
+##### Kurnool
 The original name of Kurnool is found in historical records as **Kandanavolu or Kandanolu**. It used to be a crossing on the Tungabhadra River, where the bullock cart caravans are believed to have greased their wheels **kandana** being a reference to grease. The city is often referred to as **The Gateway of Rayalaseema**. **Belum Caves** are geologically and historically important caves in the district. There are indications that Jain and Buddhist monks were occupying these caves centuries ago. Many Buddhists relics were found inside the caves. These relics are now housed in Museum at **Ananthapur**.
 
 ---
@@ -54,7 +54,7 @@ The below table indicates the sports activity that I would like to recommend oth
 
 ---
 
-##### Convex Hull construction
+#### Convex Hull construction
 
 we will discuss the problem of constructing a convex hull from a set of points.<br>
 
