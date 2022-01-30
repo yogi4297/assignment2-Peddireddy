@@ -38,4 +38,10 @@ The below table indicates the sports activity that I would like to recommend oth
 |Kabadi|Gachibowl Stadium|$20|
 |Football|Mubai Stadium|$20|
  
- 
+ ---
+
+ #### Quotes
+
+ > The greatest religion it to be true to your own nature.
+ Have faith in yourselves.
+                         *Swami Vivekananda*
