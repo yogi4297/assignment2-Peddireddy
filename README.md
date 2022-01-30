@@ -23,4 +23,10 @@ The original name of Kurnool is found in historical records as **Kandanavolu or 
 * Chicken Pakoda
 * Fast Food at park road
 
-**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/e330fbb2d88ad860a7e83043da09c50245d99ca4/README.md#yoganarasimhareddy-peddireddy)**
+**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/16b0306f3be2b702ef64f9262d4083be6b2cd5be/AboutMe.md)**
+
+---
+
+#### Sport Recomendations
+
+The below table indicates the sports activity that I would like to recommend others to participate and which is the best place to try and how much it would cost to by the equipment for the sport activity.
