@@ -56,15 +56,11 @@ The below table indicates the sports activity that I would like to recommend oth
 
 #### Convex Hull construction
 
-we will discuss the problem of constructing a convex hull from a set of points.<br>
+> Graham's scan is a method of finding the convex hull of a finite set of points in the plane with time complexity O(n log n). It is named after Ronald Graham, who published the original algorithm in 1972.[1] The algorithm finds all vertices of the convex hull ordered along its boundary. It uses a stack to detect and remove concavities in the boundary efficiently.
 
-Consider  points given on a plane, and the objective is to generate a convex hull, i.e. the smallest convex polygon that contains all the given points.
-
-[Click here to find the algorithm full discription](https://cp-algorithms.com/geometry/convex-hull.html)
+Click here to find the algorithm full discription (https://en.wikipedia.org/wiki/Graham_scan)
  
-Below is the algorithm `Monotone chain Algorithm` chain algorithm published in 1979 by Andrew.<br>
 
-[Click here to find the algorithm in the published website ](https://cp-algorithms.com/geometry/convex-hull.html)
 
 ```
 struct pt {
@@ -122,5 +118,8 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
         a.push_back(down[i]);
 }
 ```
+Below is the algorithm `Monotone chain Algorithm` chain algorithm published in 1979 by Andrew.<br>
 
-**[Click here to findout about me](https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md#yoganarasimhareddy-peddireddy)**
+[Click here to find the algorithm in the published website ](https://cp-algorithms.com/geometry/convex-hull.html)
+
+**Click here to findout about me (https://github.com/yogi4297/assignment2-Peddireddy/blob/main/AboutMe.md#yoganarasimhareddy-peddireddy)**
